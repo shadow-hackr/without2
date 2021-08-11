@@ -5,7 +5,7 @@
 #Reserved2020
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
 os.system('rm -rf .txt')
-for n in range(50000):
+for n in range(100000):
  
     nmbr = random.randint(1111111, 9999999)
     
@@ -55,7 +55,7 @@ def cb():
 ##### Dev : Kashmiri hacker#####
 ##### LOGO #####
 logo='''
-\x1b[1;96m░██═╝░🆂🅷🅰🅳🅾🆆 🅷🅰🅲🅺🅴🆁
+\x1b[1;96m╝░🆂🅷🅰🅳🅾🆆 🅷🅰🅲🅺🅴🆁
 \x1b[1;93m--------------------------------------------------------------
 \x1b[1;92m➣  YouTube  : MR.HACKER
 \x1b[1;91m➣  Facebook : Kashmiri hacker
